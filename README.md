@@ -1,6 +1,6 @@
 # neur2060-spring23-final_project
 
-NeuroPracticum folder includes excel sheets that have been included (20230111 and 20230112). 
+NeuroPracticum folder includes excel sheets (excluding 20230111 and 20230112). 
 
 Jupyter notebook includes various functions for analyzing each excel sheet.
 
